@@ -11,7 +11,7 @@
     <component base="o" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="666.6666666666666" yOffset="660"/>
     <component base="n" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="777.7777777777777" yOffset="660"/>
     <component base="space" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="888.8888888888888" yOffset="660"/>
-    <component base="one" xScale="2" yScale="2"/>
+    <component base="two" xScale="2" yScale="2"/>
   </outline>
   <lib>
     <dict>

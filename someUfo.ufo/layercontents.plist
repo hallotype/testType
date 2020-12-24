@@ -7,20 +7,8 @@
       <string>glyphs</string>
     </array>
     <array>
-      <string>background</string>
-      <string>glyphs.background</string>
-    </array>
-    <array>
       <string>bold</string>
       <string>glyphs.bold</string>
-    </array>
-    <array>
-      <string>mask</string>
-      <string>glyphs.mask</string>
-    </array>
-    <array>
-      <string>outline10</string>
-      <string>glyphs.outline10</string>
     </array>
   </array>
 </plist>
