@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="version" format="2">
+  <advance width="1000"/>
+  <outline>
+    <component base="space" xScale="0.2222222222222222" yScale="0.2222222222222222" yOffset="660"/>
+    <component base="v" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="111.1111111111111" yOffset="660"/>
+    <component base="e" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="222.2222222222222" yOffset="660"/>
+    <component base="r" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="333.3333333333333" yOffset="660"/>
+    <component base="s" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="444.4444444444444" yOffset="660"/>
+    <component base="i" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="555.5555555555555" yOffset="660"/>
+    <component base="o" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="666.6666666666666" yOffset="660"/>
+    <component base="n" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="777.7777777777777" yOffset="660"/>
+    <component base="space" xScale="0.2222222222222222" yScale="0.2222222222222222" xOffset="888.8888888888888" yOffset="660"/>
+    <component base="one" xScale="2" yScale="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.37056,0.37056,0.37056,1</string>
+    </dict>
+  </lib>
+</glyph>
